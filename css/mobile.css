@@ -1,0 +1,62 @@
+/* nav */
+#nav {
+  flex-direction: column;
+  height: 100%;
+  padding-bottom: 2rem;
+}
+
+#nav .logo h2 {
+  margin-bottom: -1rem;
+}
+#nav .navbar ul li a {
+  padding: 0.5rem;
+}
+
+#showcase .showcase-content h1 {
+  font-size: 2rem;
+}
+#showcase .showcase-content h3 {
+  font-size: 0.8rem;
+}
+
+/* Goals */
+.boxes {
+  flex-direction: column;
+}
+.box h3 {
+  padding: 0.2rem 0;
+}
+
+/* Team */
+#team {
+  display: block;
+}
+
+#team .pic {
+  display: none;
+}
+
+/* Clients */
+.clients-logo img {
+  width: 15%;
+  height: 15%;
+}
+.clients-logo img:last-child {
+  display: none;
+}
+.clients-logo img {
+  padding: 0.5rem 0;
+}
+
+/* Contacts */
+#contact {
+  flex-direction: column;
+}
+#contact .map {
+  min-height: 300px;
+  border-top: 4px solid #333;
+}
+footer {
+  margin-top: 300px;
+  padding: 0.5rem !important;
+}
