@@ -1,5 +1,4 @@
 # EdgeLedger Demo Website
-# Portfolio Website
 
 ## Description
 
